@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anatoly/projects/Igraph/SetGraph.cpp
+SetGraph.h
+/home/anatoly/projects/Igraph/SetGraph.h
+
+/home/anatoly/projects/Igraph/SetGraph.h
+igraph.h
+/home/anatoly/projects/Igraph/igraph.h
+unordered_set
+-
+vector
+-
+
+/home/anatoly/projects/Igraph/igraph.h
+vector
+-
+
